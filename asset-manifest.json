@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/charitha-gmu/My-Portfolio/static/css/main.1680ece7.css",
-    "main.js": "/charitha-gmu/My-Portfolio/static/js/main.fa4ff146.js",
-    "static/js/592.6647c214.chunk.js": "/charitha-gmu/My-Portfolio/static/js/592.6647c214.chunk.js",
-    "static/media/IMG_1347.png": "/charitha-gmu/My-Portfolio/static/media/IMG_1347.da1a8984628b4bd6d6de.png",
-    "static/media/Sree_Charitha_Meka_Resume_Latest.pdf": "/charitha-gmu/My-Portfolio/static/media/Sree_Charitha_Meka_Resume_Latest.36d80f1247a3461274bf.pdf",
-    "static/media/github-svgrepo-com.svg": "/charitha-gmu/My-Portfolio/static/media/github-svgrepo-com.187c5400112844709fb09cbe8907024d.svg",
-    "static/media/hierarchical-structure-diagram-svgrepo-com.svg": "/charitha-gmu/My-Portfolio/static/media/hierarchical-structure-diagram-svgrepo-com.c1ab8c265c107c4b829f0a66c9aa26ff.svg",
-    "static/media/nodejs-icon-logo-svgrepo-com.svg": "/charitha-gmu/My-Portfolio/static/media/nodejs-icon-logo-svgrepo-com.51fb0cf6ccda653f867a587bb90cc9c6.svg",
-    "static/media/reactjs-svgrepo-com.svg": "/charitha-gmu/My-Portfolio/static/media/reactjs-svgrepo-com.19df4041a7c4767ba9dfb2ef654fe858.svg",
-    "static/media/linkedin-svgrepo-com.svg": "/charitha-gmu/My-Portfolio/static/media/linkedin-svgrepo-com.44906b3d6741f28a922941668a2ed244.svg",
-    "static/media/laptop-work-svgrepo-com.svg": "/charitha-gmu/My-Portfolio/static/media/laptop-work-svgrepo-com.836c805aa6d74bf53960810b41cd92d4.svg",
-    "index.html": "/charitha-gmu/My-Portfolio/index.html",
-    "static/media/file-document-svgrepo-com.svg": "/charitha-gmu/My-Portfolio/static/media/file-document-svgrepo-com.8e70980f71ac3dd5a42496dac7e214ed.svg",
-    "static/media/email-circle-fill-svgrepo-com.svg": "/charitha-gmu/My-Portfolio/static/media/email-circle-fill-svgrepo-com.dd6e559daf96b2d7fd750fcc8fe19d78.svg",
-    "main.1680ece7.css.map": "/charitha-gmu/My-Portfolio/static/css/main.1680ece7.css.map",
-    "main.fa4ff146.js.map": "/charitha-gmu/My-Portfolio/static/js/main.fa4ff146.js.map",
-    "592.6647c214.chunk.js.map": "/charitha-gmu/My-Portfolio/static/js/592.6647c214.chunk.js.map"
+    "main.css": "/My-Portfolio/static/css/main.83a77a9a.css",
+    "main.js": "/My-Portfolio/static/js/main.9d15f2c9.js",
+    "static/js/592.6647c214.chunk.js": "/My-Portfolio/static/js/592.6647c214.chunk.js",
+    "static/media/IMG_1347.png": "/My-Portfolio/static/media/IMG_1347.da1a8984628b4bd6d6de.png",
+    "static/media/Sree_Charitha_Meka_Resume_Latest.pdf": "/My-Portfolio/static/media/Sree_Charitha_Meka_Resume_Latest.36d80f1247a3461274bf.pdf",
+    "static/media/github-svgrepo-com.svg": "/My-Portfolio/static/media/github-svgrepo-com.187c5400112844709fb09cbe8907024d.svg",
+    "static/media/hierarchical-structure-diagram-svgrepo-com.svg": "/My-Portfolio/static/media/hierarchical-structure-diagram-svgrepo-com.c1ab8c265c107c4b829f0a66c9aa26ff.svg",
+    "static/media/nodejs-icon-logo-svgrepo-com.svg": "/My-Portfolio/static/media/nodejs-icon-logo-svgrepo-com.51fb0cf6ccda653f867a587bb90cc9c6.svg",
+    "static/media/reactjs-svgrepo-com.svg": "/My-Portfolio/static/media/reactjs-svgrepo-com.19df4041a7c4767ba9dfb2ef654fe858.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/My-Portfolio/static/media/linkedin-svgrepo-com.44906b3d6741f28a922941668a2ed244.svg",
+    "static/media/laptop-work-svgrepo-com.svg": "/My-Portfolio/static/media/laptop-work-svgrepo-com.836c805aa6d74bf53960810b41cd92d4.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "static/media/file-document-svgrepo-com.svg": "/My-Portfolio/static/media/file-document-svgrepo-com.8e70980f71ac3dd5a42496dac7e214ed.svg",
+    "static/media/email-circle-fill-svgrepo-com.svg": "/My-Portfolio/static/media/email-circle-fill-svgrepo-com.dd6e559daf96b2d7fd750fcc8fe19d78.svg",
+    "main.83a77a9a.css.map": "/My-Portfolio/static/css/main.83a77a9a.css.map",
+    "main.9d15f2c9.js.map": "/My-Portfolio/static/js/main.9d15f2c9.js.map",
+    "592.6647c214.chunk.js.map": "/My-Portfolio/static/js/592.6647c214.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1680ece7.css",
-    "static/js/main.fa4ff146.js"
+    "static/css/main.83a77a9a.css",
+    "static/js/main.9d15f2c9.js"
   ]
 }
