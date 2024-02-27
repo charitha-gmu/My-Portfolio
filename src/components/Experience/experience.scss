@@ -6,6 +6,11 @@
     padding-top: 0;
     flex-direction: column;
 
+
+    @media (max-width: 1080px) {
+        padding: 25px 10px;
+    }
+
     .experience-header {
         width: 100%;
         text-align: left;
@@ -24,6 +29,10 @@
         flex-direction: column;
         justify-content: center;
         margin-top: 25px;
+
+        @media (max-width: 1080px) {
+            padding: 5px;
+        }
 
         a{
             text-decoration: none;
@@ -51,6 +60,11 @@
             justify-content: center;
             margin-top: 25px;
 
+            @media (max-width: 1080px) {
+                padding: 5px;
+            }
+    
+
             p{
                 margin: 2px 0;
             }
@@ -73,6 +87,7 @@
             .description{
                 font-size: $font-size-m;
                 padding: 10px 0;
+                text-align: justify;
             }
     
             .college{

@@ -6,6 +6,10 @@
     padding-top: 0;
     flex-direction: column;
 
+    @media (max-width: 1080px) {
+        padding: 25px 10px;
+    }
+
     .skills-header {
         width: 100%;
         text-align: left;
@@ -20,6 +24,16 @@
         display: flex;
         width: 100%;
         justify-content: space-between;
+
+        @media (min-width: 501px) and  (max-width: 1080px) {
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+    
+        @media (max-width: 500px) {
+            flex-direction: column;
+        }
+    
 
         .skills-card {
             min-height: 250px;
