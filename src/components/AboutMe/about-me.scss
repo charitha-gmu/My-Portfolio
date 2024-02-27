@@ -1,0 +1,54 @@
+.about-me-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    flex-direction: column;
+    // box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+    .about-me-header{
+        width: 100%;
+        text-align: left;
+        font-size: $font-size-xxl;
+        font-weight: $font-weight-bold;
+        margin-bottom: 25px;
+        border-bottom: 2px solid black;
+        padding-bottom: 10px;
+    }
+
+    .about-me-content{
+        box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+        padding: 15px;
+        .main-content{
+            font-size: $font-size-l;
+            padding-bottom: 12px;
+            text-align: justify;
+        }
+
+        .description{
+            font-size: $font-size-ml;
+            padding-bottom: 12px;
+            text-align: justify;
+        }
+    }
+
+    .social-media-icons-container{
+        height: 75px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 60%;
+        margin-top: 20px;
+
+        .social-media-icon{
+            height: 50px;
+            width: 50px;
+            cursor: pointer;
+        }
+
+        .resume{
+            height: 40px;
+            width: 40px;
+        }
+    }
+}

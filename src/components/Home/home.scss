@@ -1,0 +1,63 @@
+.home-container {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../../assets/images/IMG_1347.png");
+    opacity: 1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    // filter: blur(1.5px);
+    background-position: center center;
+
+    .header{
+        width: 100%;
+        background-color: white;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 75px;
+        position: fixed;
+        z-index: 100;
+
+        .header-option{
+            color: black;
+            cursor: pointer;
+
+            a{
+                color: $black;
+                text-decoration: none;
+            }
+        }
+
+        .header-option:hover{
+            border-bottom: 2px solid $black;
+        }
+    }
+
+    .overlay-content{
+        position: absolute;
+        top: 75px;
+        left: 0;
+        right: 0;
+        height: calc(100vh - 75px);
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: $white;
+        font-size: 36px;
+
+        .title{
+            font-size: 56px;
+            // color: $white;
+        }
+
+        .Typewriter{
+            span{
+                font-size: 36px;
+                font-weight: 500;
+            }
+        }
+    }
+}
